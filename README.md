@@ -3,3 +3,5 @@ ddddddd
 random
 
 colorA
+
+let sphereA = random 
