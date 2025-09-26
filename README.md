@@ -1,7 +1,4 @@
 # IDES9103-4
-ddddddd
-random
-
-colorA
-
-let sphereA = random 
+# Header1
+## Header2
+### Header3
